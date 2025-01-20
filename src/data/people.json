@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "location": {
+      "address": "New York",
+      "coordinates": { "lat": 40.7128, "lng": -74.0060 }
+    },
+    "work": "Software Engineer",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "location": {
+      "address": "Los Angeles",
+      "coordinates": { "lat": 34.0522, "lng": -118.2437 }
+    },
+    "work": "Graphic Designer",
+    "photo": "https://randomuser.me/api/portraits/women/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Alex Johnson",
+    "location": {
+      "address": "Chicago",
+      "coordinates": { "lat": 41.8781, "lng": -87.6298 }
+    },
+    "work": "Product Manager",
+    "photo": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "location": {
+      "address": "San Francisco",
+      "coordinates": { "lat": 37.7749, "lng": -122.4194 }
+    },
+    "work": "Data Scientist",
+    "photo": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Michael Brown",
+    "location": {
+      "address": "Miami",
+      "coordinates": { "lat": 25.7617, "lng": -80.1918 }
+    },
+    "work": "Marketing Specialist",
+    "photo": "https://randomuser.me/api/portraits/men/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sarah Wilson",
+    "location": {
+      "address": "Seattle",
+      "coordinates": { "lat": 47.6062, "lng": -122.3321 }
+    },
+    "work": "UX Designer",
+    "photo": "https://randomuser.me/api/portraits/women/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "David Clark",
+    "location": {
+      "address": "Austin",
+      "coordinates": { "lat": 30.2672, "lng": -97.7431 }
+    },
+    "work": "Web Developer",
+    "photo": "https://randomuser.me/api/portraits/men/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Olivia Martinez",
+    "location": {
+      "address": "Dallas",
+      "coordinates": { "lat": 32.7767, "lng": -96.7970 }
+    },
+    "work": "Financial Analyst",
+    "photo": "https://randomuser.me/api/portraits/women/8.jpg"
+  }
+]
